@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125700000,
+    "interestingFacts": "Japan has the world's oldest company, Kongō Gumi, founded in 578 AD and operating for over 1,400 years."
+  },
+  {
+    "id": 2,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67750000,
+    "interestingFacts": "France is the most visited country in the world, with over 89 million tourists annually."
+  },
+  {
+    "id": 3,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1428000000,
+    "interestingFacts": "India is the world's largest democracy and has 22 officially recognized languages."
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 215300000,
+    "interestingFacts": "Brazil has been the world's largest producer of coffee for over 150 years."
+  },
+  {
+    "id": 5,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38930000,
+    "interestingFacts": "Canada has the longest coastline in the world, stretching over 202,080 kilometers."
+  },
+  {
+    "id": 6,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26460000,
+    "interestingFacts": "Australia is home to the world's longest fence, the Dingo Fence, stretching 5,614 kilometers."
+  },
+  {
+    "id": 7,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 110000000,
+    "interestingFacts": "The Great Pyramid of Giza is the only one of the Seven Wonders of the Ancient World still standing."
+  },
+  {
+    "id": 8,
+    "countryName": "Norway",
+    "capital": "Oslo",
+    "population": 5460000,
+    "interestingFacts": "Norway introduced salmon sushi to Japan in the 1980s, revolutionizing Japanese cuisine."
+  },
+  {
+    "id": 9,
+    "countryName": "Iceland",
+    "capital": "Reykjavik",
+    "population": 376000,
+    "interestingFacts": "Iceland runs almost entirely on renewable energy, with geothermal power heating 90% of homes."
+  },
+  {
+    "id": 10,
+    "countryName": "South Africa",
+    "capital": "Pretoria (administrative)",
+    "population": 60410000,
+    "interestingFacts": "South Africa has three capital cities, the only country in the world with this arrangement."
+  },
+  {
+    "id": 11,
+    "countryName": "Thailand",
+    "capital": "Bangkok",
+    "population": 71690000,
+    "interestingFacts": "Bangkok's ceremonial name is the longest place name in the world with 168 letters."
+  },
+  {
+    "id": 12,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 128500000,
+    "interestingFacts": "Mexico City is built on an ancient lake bed and sinks about 50 centimeters every year."
+  },
+  {
+    "id": 13,
+    "countryName": "Switzerland",
+    "capital": "Bern",
+    "population": 8738000,
+    "interestingFacts": "Switzerland has enough nuclear fallout shelters to accommodate 114% of its population."
+  },
+  {
+    "id": 14,
+    "countryName": "New Zealand",
+    "capital": "Wellington",
+    "population": 5223000,
+    "interestingFacts": "New Zealand was the first country to give women the right to vote in 1893."
+  },
+  {
+    "id": 15,
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "population": 51620000,
+    "interestingFacts": "South Koreans are considered one year old at birth and gain a year on New Year's Day."
+  },
+  {
+    "id": 16,
+    "countryName": "Greece",
+    "capital": "Athens",
+    "population": 10420000,
+    "interestingFacts": "Greece has more archaeological museums than any other country in the world."
+  },
+  {
+    "id": 17,
+    "countryName": "Kenya",
+    "capital": "Nairobi",
+    "population": 54980000,
+    "interestingFacts": "Nairobi is the only capital city in the world with a national park within its boundaries."
+  },
+  {
+    "id": 18,
+    "countryName": "Finland",
+    "capital": "Helsinki",
+    "population": 5548000,
+    "interestingFacts": "Finland has been ranked the happiest country in the world for seven consecutive years."
+  },
+  {
+    "id": 19,
+    "countryName": "Chile",
+    "capital": "Santiago",
+    "population": 19620000,
+    "interestingFacts": "Chile is the longest north-south country in the world, stretching 4,300 kilometers."
+  },
+  {
+    "id": 20,
+    "countryName": "Singapore",
+    "capital": "Singapore",
+    "population": 5637000,
+    "interestingFacts": "Singapore is one of only three surviving city-states in the world, along with Monaco and Vatican City."
+  }
+]
