@@ -47,7 +47,7 @@ export const Footer = () => {
                 <NavLink to="https://www.linkedin.com/in/tushar-deshmukh-3511a0223/" target="_blank">LinkedIn</NavLink>
               </li>
               <li>
-                <NavLink to="/" target="_blank">Source Code</NavLink>
+                <NavLink to="https://github.com/deshmukht05/World_Atlas_ReactJS.git" target="_blank">Source Code</NavLink>
               </li>
               </ul>
             </div>
